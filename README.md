@@ -1,8 +1,3 @@
-Based on the repository structure and filenames, here's a `README.md` tailored for your [expense-ansible](https://github.com/vigneshkattamudi/expense-ansible) project:
-
----
-
-````markdown
 # Expense Ansible
 
 This repository contains Ansible playbooks and configurations to deploy a full-stack expense tracking application. The setup includes:
